@@ -1,3 +1,12 @@
+# Custom
+*.java
+keyfile.pem
+.hidden/**
+secret.*
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
